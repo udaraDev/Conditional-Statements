@@ -6,7 +6,7 @@ def main():
     elif x < 0:
         print("The number is negative.")
     else:
-        print("The number is zero.")
+        print("Dopata kakka giyane")
 
 if __name__ == "__main__":
     main()
